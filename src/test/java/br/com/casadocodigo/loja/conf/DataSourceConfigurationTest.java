@@ -12,10 +12,10 @@ public class DataSourceConfigurationTest {
 	@Profile("test")
 	public DataSource dataSource() {
 		DriverManagerDataSource dataSource = new DriverManagerDataSource();
-		dataSource.setUrl("jdbc:mysql://localhost:3306/casadocodigo_test");
+		dataSource.setUrl("jdbc:mysql://localhost:3306/casadocodigo_test?createDatabaseIfNotExist=true&useSSL=false&useTimezone=true&serverTimezone=America/Sao_Paulo&allowPublicKeyRetrieval=true");
 		dataSource.setDriverClassName("com.mysql.jdbc.Driver");
 		dataSource.setUsername("root");
-		dataSource.setPassword("");
+		dataSource.setPassword("root");
 		
 		return dataSource;
 	}
