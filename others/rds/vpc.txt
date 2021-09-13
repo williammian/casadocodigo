@@ -1,0 +1,27 @@
+VPC
+
+É a região isolada dentro da Amazon vinculada a nossa conta para que possamos 
+configurar servidores, banco de dados, etc, estando isolada das redes de outros usuários.
+
+A VPC (Virtual Private Cloud - Nuvem privada virtual) é a parte privada dentro da 
+Amazon vinculada com a conta do usuário, isolando assim as instâncias dessa região 
+das demais instâncias configurados por outros usuários da Amazon. 
+Por padrão a Amazon cria uma VPC para nossa conta quando fazemos o registro, 
+porém podemos criar outras VPCs se assim desejarmos.
+
+-----------------------------------
+
+Zonas de disponibilidade - Availability zones
+
+As zonas de disponibilidade são os datacenters que a Amazon possui 
+dentro de uma região geográfica com uma pequena distância entre si.
+
+As zonas de disponibilidade são os datacenters que estão em diferentes 
+localidades dentro de uma região geográfica de presença da Amazon, 
+o objetivo de termos mais do que uma zona de disponibilidade em uma região 
+é sempre garantir a disponibilidade de acesso por parte dos usuários. 
+Pois caso só tivéssemos um datacenter em uma região, se tal datacenter tivesse um problema, 
+nenhum usuário conseguiria acessar os recursos de uma região.
+
+
+
