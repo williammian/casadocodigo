@@ -1,0 +1,23 @@
+Ao realizarmos a configuração do grupo de segurança para o servidor aparecia 
+um campo indicando os endereços IP que teriam permissão de acessar as portas de comunicação. 
+O endereço IP listado era 0.0.0.0/0. O que indica esse endereço IP?
+
+Indica que qualquer endereço IP poderá acessar essa porta de comunicação.
+
+O endereço IP 0.0.0.0/0 indica que o tráfego vindo de todo endereço IP 
+terá permissão de acessar a porta de comunicação.
+
+-------------------------------------
+
+Ao configurarmos o grupo de segurança para acessar o servidor na Amazon, 
+já tínhamos a liberação da porta 22 utilizada pelo protocolo SSH. 
+O que faz esse protocolo?
+
+Trata-se de um protocolo que nos permite acessar virtualmente esse servidor.
+
+O protocolo SSH (Secure shell) utiliza a porta de comunicação 22 e é utilizada para 
+acessar remotamente uma máquina de forma segura, sendo assim possível realizar as configurações
+como se estivéssemos conectados diretamente ao terminal máquina.
+
+-------------------------------------
+

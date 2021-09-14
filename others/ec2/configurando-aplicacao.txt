@@ -1,0 +1,17 @@
+Nós fizemos a configuração para a aplicação da Casa do Código rodar inteiramente na Amazon, 
+porém quando vimos o grupo de segurança que havia sido alocado para o banco de dados, 
+tínhamos a liberação da porta 3306 utilizada apelo MySQL e vimos também um endereço IP 201.27.186.217/32, 
+o que podemos interpretar com essa configuração?
+
+Teremos a liberação da porta 3306 somente para o endereço IP 201.27.186.217.
+
+Quando configuramos o grupo de segurança de uma instância, temos as informações das portas de comunicação 
+que estão liberadas, bem como os endereços IP que terão permissão de acessar tal porta. 
+Como a configuração possuia 201.27.186.217/32, a anotação CIDR /32, indica que somente o endereço IP colocado, 
+no caso 201.27.186.217, será o único que terá permissão de acessar a porta de comunicação 3306.
+
+----------------------------------
+
+https://www.meuip.com.br/
+
+-----------------------------------
