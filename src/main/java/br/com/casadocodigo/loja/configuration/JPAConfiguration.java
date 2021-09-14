@@ -47,7 +47,7 @@ public class JPAConfiguration {
 		
 		dataSource.setUsername("casadocodigo");
 		dataSource.setPassword("casadocodigo");
-		dataSource.setUrl("jdbc:mysql://banco-casadocodigo.cpo8msdsh5bv.sa-east-1.rds.amazonaws.com:3306/casadocodigo?createDatabaseIfNotExist=true&useSSL=false&useTimezone=true&serverTimezone=America/Sao_Paulo&allowPublicKeyRetrieval=true");
+		dataSource.setUrl("jdbc:mysql://banco-casadocodigo.cftptunzkrem.us-east-1.rds.amazonaws.com:3306/casadocodigo?createDatabaseIfNotExist=true&useSSL=false&useTimezone=true&serverTimezone=America/Sao_Paulo&allowPublicKeyRetrieval=true");
 		
 		//dataSource.setUsername("root");
 		//dataSource.setPassword("root");

@@ -1,0 +1,10 @@
+Se o seu arquivo de despejo não tiver DEFINER, certifique-se de que essas linhas abaixo também sejam removidas, 
+se estiverem lá, ou comentadas com --:
+
+No começo:
+
+-- SET @@SESSION.SQL_LOG_BIN= 0;
+-- SET @@GLOBAL.GTID_PURGED=/*!80000 '+'*/ '';
+No fim:
+
+-- SET @@SESSION.SQL_LOG_BIN = @MYSQLDUMP_TEMP_LOG_BIN;
