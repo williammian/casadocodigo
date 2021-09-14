@@ -23,5 +23,17 @@ o objetivo de termos mais do que uma zona de disponibilidade em uma região
 Pois caso só tivéssemos um datacenter em uma região, se tal datacenter tivesse um problema, 
 nenhum usuário conseguiria acessar os recursos de uma região.
 
+-----------------------------------
+
+Grupo de Segurança
+
+É um grupo que irá especificar as portas de comunicação para acessar a instância com o banco de dados.
+
+O grupo de segurança atua como se fosse um firewall virtual protegendo o acesso a instância, 
+no grupo de segurança configuramos as portas de comunicação que estarão liberadas para que possamos assim acessar a instância.
+
+------------------------------------
+
+
 
 
