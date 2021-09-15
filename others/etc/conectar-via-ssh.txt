@@ -1,0 +1,17 @@
+Conectar via ssh
+
+ssh -i "aws-william.pem" ec2-user@ec2-18-212-164-180.compute-1.amazonaws.com
+
+ssh -i "aws-william.pem" ec2-user@ec2-18-212-42-253.compute-1.amazonaws.com
+
+ssh -i "aws-william.pem" ec2-user@ec2-18-204-211-123.compute-1.amazonaws.com
+
+---------------------------------
+
+Ao conectar primeira vez no Amazon Linux
+
+sudo yum update
+
+-------------------------------
+
+netstat -ltun (faz verificações de portas utilizadas/disponíveis)

@@ -1,0 +1,39 @@
+freenom
+
+--------------------------------------
+
+Registrar
+
+Fazer login
+
+Services > My Domains
+
+A partir do dominio criado
+sobre ele, clicar em > Manage Domain
+
+Manage Freenom DNS
+
+(a AWS disponibiliza endereço do tipo A - ex: lb-webcadastro-855672810.us-east-1.elb.amazonaws.com )
+
+Em Add Records
+
+colocar 
+
+Name		Type		TTL		Target
+cadastro	CNAME		3600		lb-webcadastro-855672810.us-east-1.elb.amazonaws.com
+
+
+----------------------------------------
+
+Alternativas freenom
+
+https://www.saashub.com/freenom-alternatives
+
+No-IP
+FreeDNS
+.co.vu
+Dynu Dynamic DNS
+Duck DNS
+
+
+

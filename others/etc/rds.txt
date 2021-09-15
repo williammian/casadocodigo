@@ -1,0 +1,16 @@
+RDS
+
+Para que haja conectividade entre o serviço RDS e as instâncias EC2, é necessário:
+Além da VPC, é obrigatório criar uma regra no Security Group.
+É pré-requisito a autorização, para que seja estabelecida a comunicação.
+
+
+--------------------------------------------------------------------------
+
+mysql -u admin -h database-1.cfsptunzkrem.us-east-1.rds.amazonaws.com -p
+
+
+show databases;
+
+create database cadastro;
+

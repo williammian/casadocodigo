@@ -1,0 +1,6 @@
+Elastic IP
+
+O uso do Elastic IP garante que a sua máquina mantenha um IP único, mesmo que seja desligada, ou mesmo reiniciada.
+Como este recurso funciona em relação à cobrança?
+
+Um IP por EC2 é gratuito, caso a máquina mantenha-se ligada.

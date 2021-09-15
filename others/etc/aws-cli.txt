@@ -1,0 +1,80 @@
+AWS - CLI
+
+É uma ferramenta integrada, para gerenciamento de todos os serviços da AWS.
+
+A partir dela, você pode gerenciar todo o seu ambiente AWS, inclusive, em muitos casos, 
+ela tem mais opções do que as apresentadas no console de gerenciamento (Dashboard).
+
+------------------------
+
+Fazer instalação 
+
+-----------------------
+
+No console web aws
+
+Criar um usuário IAM
+
+Adicionar usuários
+
+Colocar nome do usuário
+
+Tipo de acesso > Acesso programático
+
+Criar grupo
+
+Nome do grupo > admin
+
+Política > AdministradorAccess
+
+Fazer download .csv
+
+---------------------------
+
+aws configure
+
+informar AWS Access Key ID
+
+informar AWS Secret Access Key
+
+Default region name: us-east-1
+
+Default output format: json
+
+---------------------------
+
+aws ec2 describe-instances | grep PublicDnsName
+
+aws ec2 describe-instances | more
+
+aws ec2 describe-instances --query "Reservations[*].Instances[*].{Instence:[InstanceId,State]}"
+
+aws ec2 describe-instances --instance-id i-99999999999999
+
+aws ec2 describe-instances --instance-id i-99999999999999 | grep GroupName
+
+aws ec2 start-instance --instance-id i-9999999999999
+
+aws ec2 stop-instance --instance-id i-9999999999999 
+
+aws ec2 help 
+
+----------------------------
+
+Ao executar o seguinte comando:
+
+aws ec2 describe-instances
+
+Apresentará as instâncias em um região específica.
+
+Quando utilizamos a CLI, ela baseia-se nas configurações (aws configure) pré-definidas, sendo assim, 
+será exibido um informe somente desta região. Para alterar a região, basta utilizar o parâmetro --region.
+
+-----------------------------
+
+
+
+
+
+
+

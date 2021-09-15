@@ -1,0 +1,43 @@
+Elastic Load Balancing (ELB)
+
+O serviço ELB (Elastic Load Balance) apresenta as seguintes particularidades:
+
+1) Distribuição de tráfego entre diferentes destinos
+
+2) É possível utilizar o ELB para balancear tráfego TCP (por exemplo, portas diferentes da 80 e 443)
+
+
+---------------------------------
+
+Load Balancers
+
+Create Load Balancer
+
+HTTP/HTTPS
+
+Colocar Name - ex: LB-webCadastro
+
+interne-facing
+
+ipv4
+
+- Availability Zones
+
+	VPC (default)
+	
+	escolher pelo menos 2 subredes (subnets) ex: a e b
+	
+- Criar um Security Group específico para o LB
+	
+	LB-acesso-web (HTTP / 80 / 0.0.0.0/0.
+	
+- Target Group (para onde o LB olha - para as instâncias - e elas devem estar agrupadas no TG)
+
+	TG-cadastroWeb
+	
+- Health checks
+
+- Register Targets
+
+	Não associar instâncias já criadas, mas associar o grupo do auto scaling (criar pelo Grupos Auto Scaling)
+	

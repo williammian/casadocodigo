@@ -1,0 +1,61 @@
+Requisitos para os Auto Scaling Groups
+
+Definir pelo menos duas sub-redes
+É necessário selecionar pelo menos duas sub-redes. Lembrando ainda que as sub-redes devem coincidir com o ELB.
+
+Criar primeiro um template configuração
+Antes da criação do grupo de auto scaling, o serviço exige que seja criado um template de configuração (launch config).
+
+
+--------------------------------------
+
+
+Para adicionar ou remover instâncias dentro do grupo de auto scaling, são utilizados como referência:
+
+1) Estado da EC2 (stopping, terminated, etc)
+
+2) Aplicação, por exemplo se a porta 80 (HTTP) está respondendo
+
+Nas configurações do grupo, você pode definir ELB (teste da aplicação) ou EC2 (estado da instância).
+
+
+--------------------------------------
+
+
+Create dynamic scaling policy
+
+
+--------------------------------------
+
+
+AUTO SCALING > Launch Configurations > Create Launch Configuration > My AMIS
+
+selecionar imagem criada (webCadastro)
+
+escolher tipo da instância
+
+colocar nome (AS-config-webCadastro)
+
+No Security Group, amarrar o security group que usa na imagem, acesso a porta 80 (acesso-web), acesso remoto porta 22, vpc padrão
+
+
+--------------------------------------
+
+Auto Scaling Groups > Create Auto Scaling Group > Launch Configuration 
+
+marcar AS-config-webCadastro
+
+Group name = AS-Group-cadastroWeb
+
+Network = vpc padrão
+
+subnets a e b
+
+Group size = 2 instances
+
+Marcar Receive trafic from one or more load balancers
+
+Target Groups = TG-cadastroWeb
+
+Health Check Type = ELB
+
