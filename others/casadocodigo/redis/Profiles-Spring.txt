@@ -1,0 +1,8 @@
+Com o recurso de Profiles podemos configurar diferentes métodos que deverão
+ser carregados em contextos diferentes.
+
+Com o recurso de Profiles que o Spring oferece conseguimos configurarmos 
+métodos/classes que deverão ser carregados em contextos diferentes, 
+por exemplo no ambiente de teste e desenvolvimento. 
+Dessa forma, evitamos de termos que alterar constantemente informações 
+que deverão ser utilizadas no ambiente de teste e desenvolvimento, por exemplo.
