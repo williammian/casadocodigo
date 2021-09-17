@@ -1,0 +1,7 @@
+O que é exatamente a configuração Sticky Session?
+
+Trata-se da associação que é feita entre a sessão de um usuário com uma instância específica, 
+redirecionando as demais requisições para essa mesma instância.
+
+O Sticky Session seria a a forma de associar a sessão do usuário com uma instância específica, 
+fazendo com as demais requisições de um usuário sejam enviadas para a mesma instância.

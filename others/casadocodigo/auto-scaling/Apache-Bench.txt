@@ -1,0 +1,10 @@
+Apache Bench
+
+Efetuar requisições de teste para um end-point
+
+C:\xampp\apache\bin
+
+C:\xampp\apache\bin>ab.exe -n 2000 http://34.200.218.74:8080/casadocodigo
+
+2000 -> é o número de requisições
+

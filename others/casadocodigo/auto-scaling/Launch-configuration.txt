@@ -1,0 +1,12 @@
+Launch Configuration
+
+Ao realizarmos a configuração do grupo de escalonamento, 
+fizemos em um momento a criação do Launch Configuration.
+
+O que é exatamente essa opção Launch configuration?
+
+É a opção utilizada para realizar a configuração dos demais servidores que farão parte do grupo de escalonamento.
+
+A opção Launch configuration seria a configuração dos servidores que farão parte do grupo de escalonamento, 
+onde especificamos entre outras coisas , a imagem que será utilizada, grupo de segurança, etc, 
+conforme foi especificado na resposta.

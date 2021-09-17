@@ -1,0 +1,9 @@
+Uma das vantagens de se utilizar o grupo de auto-escalonamento:
+
+Com o grupo de auto-escalonamento é possível definir políticas para que a Amazon 
+configure automaticamente outras instâncias com configurações pré-definidas.
+
+Através do grupo de auto-escalonamento é possível que nós criemos políticas de acesso, 
+caso essas políticas tenham o limite ultrapassado a Amazon já configura novamente 
+novas instâncias com determinadas pré-configurações, atendendo assim a demanda de acessos 
+que a aplicação poderá vir a possuir.
