@@ -1,0 +1,2 @@
+O redis é um banco de dados não relacional que armazena os dados na forma de chave-valor.
+
