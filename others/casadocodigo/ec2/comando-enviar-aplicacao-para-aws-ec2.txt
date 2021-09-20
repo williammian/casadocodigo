@@ -1,0 +1,2 @@
+
+scp -i chave_ec2_casadocodigo_1.pem casadocodigo.war ubuntu@ec2-3-81-166-161.compute-1.amazonaws.com:~
