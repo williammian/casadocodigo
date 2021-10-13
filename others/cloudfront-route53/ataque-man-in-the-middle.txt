@@ -1,0 +1,11 @@
+Você está entrevistando uma pessoa para fazer parte da sua equipe 
+e você pergunta o que é o ataque man in the middle.
+O que você espera ouvir como resposta?
+
+O ataque man in the middle consiste no usuário manipular tabelas 
+presentes em duas entidades que se comunicam, 
+para que fique assim no meio da comunicação.
+
+Com o ataque man in the middle o usuário manipula as tabelas de duas entidades 
+que se comunicam para que fique assim no meio da comunicação entre elas, 
+podendo eventualmente analisar os dados passados entre as duas entidades.

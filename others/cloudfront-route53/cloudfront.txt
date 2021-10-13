@@ -1,0 +1,11 @@
+Você está entrevistando uma nova pessoa para fazer parte da sua equipe que irá trabalhar com os serviços da Amazon.
+Durante a entrevista, você pergunta: o que faz o serviço de CloudFront da Amazon?
+O que você espera ouvir como resposta?
+
+O serviço do CloudFront é responsável por realizar a distribuição de um conteúdo 
+por meio de uma rede global de datacenters, chamados de pontos de presença.
+
+O CloudFront seria um serviço responsável por fazer a distribuição de um conteúdo 
+para vários datacenters espalhados pelo mundo, chamados de pontos de presença e com isso, 
+o usuário faz o acesso do conteúdo através desses pontos de presença que estão mais próximos
+de sua localidade e oferecem um melhor tempo de resposta, conforme especificado na resposta.

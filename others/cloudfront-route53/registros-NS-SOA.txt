@@ -1,0 +1,13 @@
+Ao criarmos a zona de configuração de domínio na Amazon, foram criados automaticamente dois registros 
+SOA - Start of Authority e NS - Name server. 
+Qual seria o papel de cada um deles?
+
+O registro NS representa os nomes dos servidores que serão responsáveis por responder 
+as consultas realizadas para o domínio em questão, enquanto que o registro 
+SOA indica o nome do servidor que representa uma autoridade de resposta para o domínio em questão.
+
+As entradas referentes no registro NS, seriam os nomes dos servidores que deverão 
+ser divulgados para os servidores que respondem pelo topo de domínio (.com, .br, etc) 
+que estão na internet, indicando que tais servidores irão responder às consultas realizadas para esse domínio, 
+enquanto que o registro SOA indica o nome do servidor na localidade na qual configuramos a zona de domínio, 
+que irá representar uma autoridade de resposta para o domínio em questão.

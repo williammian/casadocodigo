@@ -1,0 +1,10 @@
+Ao criarmos um registro de configuração referente ao nosso domínio no Route 53, 
+selecionamos a opção Public Hosted Zone. 
+Por que selecionamos essa opção?
+
+Tal opção foi necessária, pois assim todos os usuários da internet 
+tem a possibilidade de utilizar tal domínio para acessar a aplicação.
+
+Ao colocarmos a zona de configuração do domínio com a opção Public Hosted Zone, 
+estamos fazendo com que tal domínio possa ser utilizado pelos usuários na internet, 
+podendo assim acessar a aplicação através desse domínio.

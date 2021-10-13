@@ -1,0 +1,13 @@
+Você está participando de um processo seletivo, durante a entrevista, 
+a pessoa lhe pergunta qual seria a diferença entre os algoritmos de criptografia 
+que utilizam chaves simétricas dos algoritmos de criptografia que utilizam chaves assimétricas. 
+O que você responde?
+
+Os algoritmos de criptografia que utilizam o processo de chave simétrica possui uma chave no processo, 
+enquanto que os algoritmos de criptografia que utilizam chaves assimétricas,
+possuem duas chaves no processo, o que uma criptografa a outra descriptografa.
+
+No processo de chaves assimétricas, temos duas chaves no processo, uma chave privada e outra chave pública, 
+sendo que o que uma chave criptografa a outra chave descriptografa. 
+Os algoritmos de criptografia que utilizam chaves simétricas possuem somente uma chave, 
+a mesma chave criptografa e descriptografa os dados.

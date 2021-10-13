@@ -1,0 +1,13 @@
+Ao acessarmos a aplicação da Alura que trabalha com HTTPS, vimos que uma 
+chave pública foi enviada para o cliente (browser). 
+Como sabemos se de fato essa chave pública que recebemos é mesmo do site?
+
+Sabemos que de fato a chave pública veio do site, porque uma empresa 
+terceira que representa uma autoridade de certificação fez a verificação e emitiu o certificado.
+
+Uma empresa terceira que representa uma autoridade de certificação é que irá fazer a validação 
+e confirmar as informações de identidade. Estando tudo ok, o certificado será emitido e com isso, 
+quando fazemos o acesso, nosso browser já reconhece os certificados emitidos por essa empresa que 
+representa uma autoridade de certificação e com isso temos essa garantia de que a chave pública 
+recebida é mesmo do site.
+

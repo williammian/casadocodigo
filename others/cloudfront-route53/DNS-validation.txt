@@ -1,0 +1,11 @@
+Ao utilizarmos o serviço Certificate Manager da Amazon havia uma 
+etapa referente a validação, por que existe essa etapa de validação?
+
+Pois dessa forma, a empresa que representa uma autoridade de certificação 
+consegue verificar nossa autonomia sobre o domínio e emitir o certificado.
+
+Para que a empresa que representa uma autoridade de certificação possa emitir 
+um certificado para que nossa aplicação seja acessada de forma segura, 
+ela primeiro precisa confirmar se nós somos de fato quem dizemos ser. 
+Com essa configuração, a Amazon pode verificar se nós temos a devida 
+autonomia sobre o domínio e após essa validação ser feita, irá emitir o certificado.

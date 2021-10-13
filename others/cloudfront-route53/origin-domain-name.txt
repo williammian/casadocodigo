@@ -1,0 +1,11 @@
+Ao realizarmos a configuração do CloudFront, temos uma etapa na configuração 
+onde devemos inserir um campo respectivo ao Origin Domain Name, como ilustrado abaixo:
+
+O que devemos inserir nesse campo?
+
+Devemos colocar qual seria o ponto de origem em que o CloudFront deverá 
+buscar as informações para fazer a distribuição de conteúdo.
+
+O campo Origin Domain Name é utilizado para referenciar o ponto de origem em que o 
+CloudFront deverá buscar as informações para fazer a distribuição de conteúdo, como especificado na resposta.
+

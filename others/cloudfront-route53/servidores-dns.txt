@@ -1,0 +1,14 @@
+Ao colocarmos www.google.com no nosso browser, ele faz uma requisição que passa 
+inicialmente pelo provedor de serviços, que tenta resolver esse nome para o respectivo 
+endereço IP do servidor com a aplicação do Google. O provedor de serviços, 
+não possuindo tal informação, irá fazer a consulta para os chamados servidores Root, 
+que informações retornam os servidores Root?
+
+Os servidores Root irão retornar a informação com os nomes dos servidores que respondem pelo topo do domínio, 
+nesse caso .com, para que a consulta seja feita para tais servidores.
+
+Os servidores Root estão no topo da hierarquia do sistema DNS, dessa forma, 
+eles não possuem uma entrada específica para cada domínio existente, ao invés disso, 
+possuem registros dos nomes dos servidores que responder pelo topo do domínio, 
+nesse caso .com, para que a consulta seja feita para tais servidores até resolver 
+qual endereço IP responde pelo endereço buscado.

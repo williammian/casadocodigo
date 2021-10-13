@@ -1,0 +1,16 @@
+Filtro Wireshark
+
+Considerando que estamos realizando uma análise de protocolos com o Wireshark 
+e colocamos o filtro:
+
+ip.addr=20.55.122.0/24
+
+Quais dos endereços IP abaixo irão aparecer no filtro?
+
+20.55.122.32
+
+Pelo fato de estarmos utilizando a anotação CIDR /24, temos a indicação que 
+os 3 primeiros intervalos do endereço IP do filtro tem que ser exatamente 
+iguais aos que colocamos, no caso 20.55.122. 
+Das alternativas listadas, essa é a única opção que atende essa requisição 
+e portanto é a única que irá aparecer no filtro.

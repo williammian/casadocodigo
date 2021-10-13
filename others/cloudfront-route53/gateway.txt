@@ -1,0 +1,9 @@
+Ao realizarmos o ataque man in the middle com o Kali Linux, 
+nós havíamos feito a configuração e em um determinado momento 
+utilizamos a opção Gateway, o que é essa opção?
+
+É a opção referente ao endereço IP do roteador.
+
+O gateway poderia ser interpretado como o "portão de saída" para o mundo externo, 
+o roteador que seria responsável por esse papel de realizarmos a comunicação com o mundo externo. 
+Dessa forma, a opção do gateway seria referente ao endereço IP do roteador.
