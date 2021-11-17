@@ -1,0 +1,34 @@
+Cloud Security
+
+Cloud security at AWS is the highest priority. As an AWS customer, 
+you will benefit from a data center and network architecture built to 
+meet the requirements of the most security-sensitive organizations. 
+In the cloud, you use software-based security tools to monitor and 
+protect the flow of information into and of out of your cloud 
+resources.
+
+Segurança na nuvem
+
+A segurança da nuvem na AWS é a prioridade mais alta. Como um cliente AWS,
+você se beneficiará de um data center e arquitetura de rede construída para
+atender aos requisitos das organizações mais sensíveis à segurança.
+Na nuvem, você usa ferramentas de segurança baseadas em software para monitorar e
+proteger o fluxo de informações de e para sua recursos na nuvem.
+
+---------------------------------------------------------------------
+
+Benefits of AWS Security
+
+- Keep Your Data Safe: All data is stored in highly secure AWS data centers.
+- Meet Compliance Requirements: AWS manages dozens of compliance programs in its infrastructure.
+- Save Money: Cut costs by using AWS data centers. Maintain the highest standard of security without having to manage your own facility
+Scale Quickly: Security scales with your AWS Cloud usage. 
+
+Benefícios da segurança da AWS
+
+- Mantenha seus dados seguros: Todos os dados são armazenados em data centers altamente seguros da AWS.
+- Atender aos requisitos de conformidade: a AWS gerencia dezenas de programas de conformidade em sua infraestrutura.
+- Economize dinheiro: corte custos usando data centers da AWS. Mantenha o mais alto padrão de segurança sem ter que gerenciar suas próprias instalações
+- Escale rapidamente: a segurança aumenta com o uso da nuvem AWS.
+
+----------------------------------------------------------------------

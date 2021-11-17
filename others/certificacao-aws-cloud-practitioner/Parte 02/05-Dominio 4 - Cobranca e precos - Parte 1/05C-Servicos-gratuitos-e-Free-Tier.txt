@@ -1,0 +1,22 @@
+Free Services
+
+Amazon VPC
+Elastic Beanstalk
+CloudFormation
+IAM
+AutoScaling
+Opsworks
+
+--------------------------------------------
+
+AWS Free Tier
+
+The AWS Free Tier enables you to gain free, hands-on experience with the AWS platform, products, 
+and services. AWS Free Tier includes offers that expire 12 months after sign-up, Always free and Trials.
+
+https://aws.amazon.com/free/
+
+O nível gratuito da AWS permite que você ganhe experiência prática e gratuita com a plataforma, produtos e
+e serviços. O nível gratuito da AWS inclui ofertas que expiram 12 meses após a inscrição, Sempre grátis e avaliações.
+
+--------------------------------------------

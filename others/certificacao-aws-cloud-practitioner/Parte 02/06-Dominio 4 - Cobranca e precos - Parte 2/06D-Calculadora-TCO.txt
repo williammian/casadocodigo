@@ -1,0 +1,25 @@
+TCO Calculator
+
+The AWS TCO calculator gives you the option to evaluate the savings from using AWS 
+and comparing against on premises and co-location environments.  
+The TCO calculator matches your current infrastructure to the most cost effective AWS offering.  
+This tool takes into consideration all the costs to run a solution, including physical facilities, 
+power and cooling, providing a realistic end-to-end comparison of your costs.
+
+A calculadora AWS TCO oferece a opção de avaliar a economia com o uso da AWS
+e comparando com ambientes locais e de co-localização.
+A calculadora de TCO combina sua infraestrutura atual com a oferta AWS mais econômica.
+Esta ferramenta leva em consideração todos os custos para executar uma solução, incluindo instalações físicas,
+energia e resfriamento, fornecendo uma comparação realista de ponta a ponta de seus custos.
+
+https://aws.amazon.com/tco-calculator/
+
+------------------------------------------
+
+About AWS calculators, we can say:
+
+The TCO calculator compares the costs of the cloud environment with the on-premises
+
+Com a TCO, você gera um relatório comparativo.
+
+-----------------------------------------

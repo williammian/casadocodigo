@@ -1,0 +1,17 @@
+AWS Config
+
+AWS Config is a service that enables you to assess, audit, and evaluate the configurations of your AWS resources. 
+Config continuously monitors and records your AWS resource configurations and allows you to automate 
+the evaluation of recorded configurations against desired configurations. 
+With Config, you can review changes in configurations and relationships between AWS resources, 
+dive into detailed resource configuration histories, and determine your overall compliance 
+against the configurations specified in your internal guidelines. 
+
+O AWS Config é um serviço que permite avaliar, auditar e avaliar as configurações de seus recursos da AWS.
+O Config monitora e registra continuamente suas configurações de recursos da AWS e permite que você automatize
+a avaliação das configurações registradas em relação às configurações desejadas.
+Com o Config, você pode revisar as mudanças nas configurações e relacionamentos entre os recursos da AWS,
+mergulhe em históricos de configuração de recursos detalhados e determine sua conformidade geral
+em relação às configurações especificadas em suas diretrizes internas.
+
+--------------------------------------------

@@ -1,0 +1,78 @@
+Understand the fundamentals of pricing
+
+There are three fundamental drivers of cost with AWS: compute, storage, and outbound data transfer. 
+These characteristics vary somewhat, depending on the AWS product and pricing model you choose.
+In most cases, there is no charge for inbound data transfer or for data transfer between 
+other AWS services within the same region. 
+There are some exceptions, so be sure to verify data transfer rates before beginning.
+
+https://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
+
+Existem três motivadores fundamentais de custo com AWS: computação, armazenamento e transferência de dados de saída.
+Essas características variam um pouco, dependendo do produto AWS e do modelo de preço que você escolher.
+Na maioria dos casos, não há cobrança para transferência de dados de entrada ou para transferência de dados entre
+outros serviços da AWS na mesma região.
+Existem algumas exceções, portanto, certifique-se de verificar as taxas de transferência de dados antes de começar.
+
+----------------------------------------------------
+
+AWS Billing and Cost Management
+
+AWS Billing and Cost Management is the service that you use to pay your AWS bill, 
+monitor your usage, and analyze and control your costs.
+
+AWS Billing and Cost Management é o serviço que você usa para pagar sua fatura AWS,
+monitore seu uso e analise e controle seus custos.
+
+-----------------------------------------------------
+
+Features in Billing and Cost Management
+
+Estimate and plan your AWS costs
+Receive alerts if your costs exceed a threshold that you set
+Assess your biggest investments in AWS resources
+Simplify your accounting if you work with multiple AWS accounts
+
+Recursos de cobrança e gerenciamento de custos
+
+Estime e planeje seus custos de AWS
+Receba alertas se seus custos excederem um limite que você definiu
+Avalie seus maiores investimentos em recursos da AWS
+Simplifique sua contabilidade se você trabalhar com várias contas AWS
+
+------------------------------------------------------
+
+AWS Budgets e Cost Explorer 
+
+AWS Budgets gives you the ability to set custom budgets that alert you when your costs 
+or usage exceed (or are forecasted to exceed) your budgeted amount.
+BEFORE
+
+AWS Cost Explorer has an easy-to-use interface that lets you visualize, 
+understand, and manage your AWS costs and usage over time.
+AFTER
+
+AWS Budgets e Cost Explorer
+
+O AWS Budgets oferece a capacidade de definir orçamentos personalizados que alertam quando seus custos
+ou o uso excede (ou está previsto que exceda) o valor orçado.
+ANTES
+
+O AWS Cost Explorer tem uma interface fácil de usar que permite que você visualize,
+compreender e gerenciar seus custos e uso da AWS ao longo do tempo.
+DEPOIS DE
+
+-------------------------------------------------------
+
+True or false? AWS Budgets allows you to set custom budgets that alert 
+you when your costs or usage exceed the budgeted amount.
+
+True
+
+O AWS Budgets permite definir orçamentos personalizados, 
+que alertam quando os seus custos ou uso excedam o valor orçado.
+
+--------------------------------------------------------
+
+
+

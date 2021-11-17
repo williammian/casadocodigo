@@ -1,0 +1,21 @@
+Estimating Amazon EC2 costs
+
+Clock hours of server time
+Instance type
+Pricing model
+Number of instances
+Load balancing
+Detailed monitoring
+Auto Scaling
+Elastic IP addresses
+Operating systems and software packages
+
+------------------------------------------------
+
+Which EC2 option is best for long-term workloads with predictable usage patterns?
+
+Reserved instances
+
+Se você precisa de uma instância para um longo período, esta é a opção.
+
+------------------------------------------------

@@ -1,0 +1,15 @@
+Choosing the AWS Region
+
+data storage laws
+latency to end users
+aws services
+
+--------------------------------------------------
+
+Access to Services
+
+AWS Management Console
+Command Line Interface (CLI)
+Software Development Kits (SDKs).
+
+---------------------------------------------------

@@ -1,0 +1,35 @@
+Resource Groups
+
+You can use resource groups to organize your AWS resources. 
+Resource groups make it easier to manage and automate tasks on large numbers of resources at one time.
+
+Você pode usar grupos de recursos para organizar seus recursos da AWS.
+Os grupos de recursos tornam mais fácil gerenciar e automatizar tarefas em um grande número de recursos de uma só vez.
+
+----------------------------------------------------------
+
+Tags for Cost Allocation
+
+AWS Cost Explorer and detailed billing reports support the ability to break down AWS costs by tag. 
+Typically, customers use business tags such as cost center/business unit, customer, 
+or project to associate AWS costs with traditional cost-allocation dimensions. 
+However, a cost allocation report can include any tag. 
+This allows customers to easily associate costs with technical or security dimensions, 
+such as specific applications, environments, or compliance programs. 
+
+O AWS Cost Explorer e os relatórios detalhados de faturamento oferecem suporte à capacidade de dividir os custos da AWS por tag.
+Normalmente, os clientes usam tags de negócios, como centro de custo / unidade de negócios, cliente,
+ou projeto para associar os custos da AWS às dimensões tradicionais de alocação de custos.
+No entanto, um relatório de alocação de custos pode incluir qualquer tag.
+Isso permite que os clientes associem facilmente os custos às dimensões técnicas ou de segurança,
+como aplicativos, ambientes ou programas de conformidade específicos.
+
+------------------------------------------------------------
+
+Which of the options best describes a resource group?
+
+A resource group is a collection of resources that share one or more tags
+
+Um Resource Group é uma coleção de recursos que compartilham uma ou mais tags independentes de regiões ou zonas de disponibilidade.
+
+------------------------------------------------------------

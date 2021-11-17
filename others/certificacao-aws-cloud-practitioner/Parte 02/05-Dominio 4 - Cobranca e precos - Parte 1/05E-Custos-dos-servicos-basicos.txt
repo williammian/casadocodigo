@@ -1,0 +1,40 @@
+AWS Lambda pricing
+
+Duration is calculated from the time your code begins executing until it returns or otherwise terminates, 
+rounded up to the nearest 100 milliseconds. The price depends on the amount of memory you allocate to your function.
+
+A duração é calculada a partir do momento em que seu código começa a ser executado até que ele retorne ou termine de outra forma,
+arredondado para os 100 milissegundos mais próximos. O preço depende da quantidade de memória que você alocar para sua função.
+
+------------------------------------------------------------
+
+How Amazon EBS is priced
+
+Volumes
+Snapshots
+Data Transfer
+
+-------------------------------------------------------------
+
+Estimating Amazon S3 storage costs
+
+Storage Class
+Storage
+Requests
+Data transfer
+
+-------------------------------------------------------------
+
+Estimating Amazon RDS costs
+
+Clock hours of server time
+Database characteristics
+Database purchase type
+Number of database instances
+Provisioned storage
+Additional storage
+Requests
+Deployment type
+Data transfer
+
+-------------------------------------------------------------

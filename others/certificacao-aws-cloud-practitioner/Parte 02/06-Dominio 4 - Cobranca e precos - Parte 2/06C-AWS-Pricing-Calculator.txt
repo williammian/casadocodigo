@@ -1,0 +1,17 @@
+AWS Calculators
+
+AWS Pricing Calculator
+TCO Calculator
+
+---------------------------------------
+
+AWS Pricing Calculator
+
+The calculator allows you to estimate individual or multiple prices and use templates to appraise complete solutions.
+
+A calculadora permite estimar preços individuais ou múltiplos e usar modelos para avaliar soluções completas.
+
+https://calculator.aws/
+
+---------------------------------------
+

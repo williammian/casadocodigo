@@ -1,0 +1,38 @@
+IAM - Identity and Access Management
+
+AWS Identity and Access Management (IAM) enables you to securely control access to 
+AWS services and resources for your users. Using IAM, you can create and manage AWS users and groups, 
+and use permissions to allow and deny their access to AWS resources.
+
+AWS Identity and Access Management (IAM) permite que você controle com segurança o acesso a
+Serviços e recursos da AWS para seus usuários. Usando IAM, você pode criar e gerenciar usuários e grupos AWS,
+e usar permissões para permitir e negar seu acesso aos recursos da AWS.
+
+---------------------------------------------------
+
+Manage IAM users and their access 
+Manage IAM roles and their permissions
+Manage federated users and their permissions
+
+Gerenciar usuários IAM e seus acessos
+Gerenciar papéis IAM e suas permissões
+Gerenciar usuários federados e suas permissões
+
+-----------------------------------------------------
+
+Recomendações
+
+Delete your root access keys
+
+Activate MFA on your root account
+A conta raiz deve ter o MFA ativado (segundo fator de autenticação).
+
+Create individual IAM users
+Você sempre deve criar usuários individuais (a conta raiz nunca deve ser usada para trabalho operacional).
+
+Use groups to assign permissions
+Grupos devem ser usados ​​para conceder permissões aos usuários criados por você.
+
+Apply an IAM password policy
+
+------------------------------------------------------

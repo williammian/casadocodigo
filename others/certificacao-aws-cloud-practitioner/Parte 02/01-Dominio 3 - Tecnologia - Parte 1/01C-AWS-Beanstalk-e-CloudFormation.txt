@@ -1,0 +1,42 @@
+Methods of Deploying and Operating in the AWS Cloud
+
+Elastic Beanstalk
+CloudFormation
+OpsWorks
+Code Commit
+Code Deploy
+CodePipeline
+EC2 Container Services
+
+----------------------------------------------------
+
+AWS Elastic Beanstalk
+
+AWS Elastic Beanstalk is an service for deploying and scaling web applications and services developed with 
+Java, .NET, PHP, Node.js, Python, Ruby, Go, and Docker on familiar servers such as Apache, Nginx, Passenger, and IIS.
+You can simply upload your code and Elastic Beanstalk automatically handles the deployment, 
+from capacity provisioning, load balancing, auto-scaling to application health monitoring. 
+There is no additional charge for Elastic Beanstalk
+
+O AWS Elastic Beanstalk é um serviço para implantação e dimensionamento de aplicativos e serviços da web desenvolvidos com
+Java, .NET, PHP, Node.js, Python, Ruby, Go e Docker em servidores familiares, como Apache, Nginx, Passenger e IIS.
+Você pode simplesmente fazer o upload do seu código e o Elastic Beanstalk lida automaticamente com a implantação,
+de provisionamento de capacidade, balanceamento de carga, escalonamento automático e monitoramento de integridade de aplicativos.
+Não há custo adicional para Elastic Beanstalk
+
+-----------------------------------------------------
+
+CloudFormation
+
+AWS CloudFormation provides a common language for you to model and provision AWS and third party application resources
+in your cloud environment. AWS CloudFormation allows you to use programming languages or a simple text file to model and provision, 
+in an automated and secure manner, all the resources needed for your applications across all regions and accounts.
+
+AWS CloudFormation fornece uma linguagem comum para você modelar e provisionar AWS e recursos de aplicativos de terceiros
+em seu ambiente de nuvem. AWS CloudFormation permite que você use linguagens de programação ou um arquivo de texto simples para modelar e provisionar,
+de maneira automatizada e segura, todos os recursos necessários para seus aplicativos em todas as regiões e contas.
+
+-----------------------------------------------------
+
+
+

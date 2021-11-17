@@ -1,0 +1,83 @@
+https://aws.amazon.com/pt/what-is-cloud-computing/
+
+Types of Cloud Computing
+
+- Infrastructure as a Service (IaaS)
+- Platform as a Service (PaaS)
+- Software as a Service (SaaS)
+
+Tipos de computação em nuvem
+
+- Infraestrutura como serviço (IaaS)
+- Plataforma como serviço (PaaS)
+- Software como serviço (SaaS)
+
+---------------------------------------------------------
+
+Infrastructure as a Service (IaaS)
+
+Infrastructure as a Service (IaaS) contains the basic building blocks 
+for cloud IT and typically provide access to networking features, 
+computers (virtual or on dedicated hardware), and data storage 
+space. IaaS provides you with the highest level of flexibility and 
+management control over your IT resources and is most similar to 
+existing IT resources that many IT departments and developers are 
+familiar with today.
+
+Infraestrutura como serviço (IaaS)
+
+Infraestrutura como serviço (IaaS) contém os blocos básicos de construção 
+para TI na nuvem e, normalmente, fornecem acesso a recursos de rede,
+computadores (virtuais ou em hardware dedicado) e armazenamento de espaço de dados.
+IaaS fornece o mais alto nível de flexibilidade e
+controle de gerenciamento sobre seus recursos de TI e é mais semelhante a
+recursos de TI existentes que muitos departamentos de TI e desenvolvedores são
+familiarizado com hoje.
+
+-----------------------------------------------------------
+
+Platform as a Service (PaaS)
+
+Platform as a Service (PaaS) removes the need for your organization 
+to manage the underlying infrastructure (usually hardware and 
+operating systems) and allows you to focus on the deployment and 
+management of your applications. This helps you be more efficient as 
+you don’t need to worry about resource procurement, capacity 
+planning, software maintenance, patching, or any of the other 
+undifferentiated heavy lifting involved in running your application.
+
+Plataforma como serviço (PaaS)
+
+Plataforma como serviço (PaaS) elimina a necessidade de sua organização
+para gerenciar a infraestrutura subjacente (geralmente hardware e
+sistemas operacionais) e permite que você se concentre na implantação e
+gerenciamento de seus aplicativos. Isso ajuda você a ser mais eficiente
+você não precisa se preocupar com a aquisição de recursos, capacidade
+planejamento, manutenção de software, patch ou qualquer outro
+levantamento pesado indiferenciado envolvido na execução de seu aplicativo.
+
+-------------------------------------------------------------
+
+Software as a Service (SaaS)
+
+Software as a Service (SaaS) provides you with a completed product 
+that is run and managed by the service provider. In most cases, 
+people referring to Software as a Service are referring to end-user 
+applications. With a SaaS offering you do not have to think about how 
+the service is maintained or how underlying infrastructure is 
+managed; you only need to think about how you will use that 
+particular piece of software.
+
+Software as a Service (SaaS)
+
+Software as a Service (SaaS) fornece a você um produto completo
+que é executado e gerenciado pelo provedor de serviços. Na maioria dos casos,
+pessoas que se referem a Software como um Serviço estão se referindo ao usuário final
+formulários. Com uma oferta de SaaS, você não precisa pensar em como
+o serviço é mantido ou como a infraestrutura subjacente é
+gerenciou; você só precisa pensar em como vai usar isso
+parte particular do software.
+
+---------------------------------------------------------------
+
+

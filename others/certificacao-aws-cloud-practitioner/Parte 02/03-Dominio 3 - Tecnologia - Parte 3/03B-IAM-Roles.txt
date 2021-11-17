@@ -1,0 +1,23 @@
+IAM Roles
+
+An IAM role is an IAM entity that defines a set of permissions for making AWS service requests. 
+IAM roles are not associated with a specific user or group. 
+Instead, trusted entities assume roles, such as IAM users, applications, or AWS services such as EC2.
+IAM roles allow you to delegate access with defined permissions to trusted entities 
+without having to share long-term access keys. 
+
+Uma função IAM é uma entidade IAM que define um conjunto de permissões para fazer solicitações de serviço AWS.
+As funções do IAM não estão associadas a um usuário ou grupo específico.
+Em vez disso, as entidades confiáveis ​​assumem funções, como usuários IAM, aplicativos ou serviços AWS, como EC2.
+As funções do IAM permitem que você delegue acesso com permissões definidas a entidades confiáveis
+sem ter que compartilhar chaves de acesso de longo prazo.
+
+---------------------------------------------------------
+
+True or false? Roles are more secure than credential keys.
+
+True
+
+As roles do IAM não estão associadas a um usuário ou grupo específico.
+
+----------------------------------------------------------

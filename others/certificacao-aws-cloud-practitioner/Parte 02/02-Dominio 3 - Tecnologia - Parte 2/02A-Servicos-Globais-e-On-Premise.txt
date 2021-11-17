@@ -1,0 +1,20 @@
+Global Services
+
+IAM - Identity and Access Management
+Route53 - DNS
+CloudFront - CDN
+SNS - Notification
+SES - Email Service
+
+S3 - Regional Service with Global Vision
+
+---------------------------------------------
+
+Services "On Premise"
+
+Snowball - Data Transfer (Service / Hardware)
+Storage Gateway -  Hybrid cloud storage with local caching
+CodeDeploy - Automate code deployments to maintain application uptime
+Opsworks - Automate Operations with Chef and Puppet
+IoT Greengrass - extends cloud capabilities to local devices
+

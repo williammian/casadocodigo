@@ -1,0 +1,34 @@
+S3
+
+Amazon Simple Storage Service (Amazon S3) is an object storage service that 
+offers industry-leading scalability, data availability, security, and performance. 
+Amazon S3 is designed for 99.999999999% (11 9's) of durability, and stores data 
+for millions of applications for companies all around the world.
+
+Amazon Simple Storage Service (Amazon S3) é um serviço de armazenamento de objetos que
+oferece escalabilidade, disponibilidade de dados, segurança e desempenho líderes do setor.
+Amazon S3 foi projetado para 99,999999999% (11 9's) de durabilidade e armazena dados
+para milhões de aplicativos para empresas em todo o mundo.
+
+------------------------------------------------------------------------------------
+
+S3 Features
+
+Object-based
+File size - 0 to 5TB
+Key (name of the object)
+Unlimited Storage
+Storage in Buckets
+
+-------------------------------------------------------------------------------------
+
+Storage Classes
+
+S3 Standard
+S3 Intelligent-Tiering*
+S3 Standard-IA
+S3 One Zone-IAt
+S3 Glacier
+S3 Glacier Deep Archive
+
+-------------------------------------------------------------------------------------

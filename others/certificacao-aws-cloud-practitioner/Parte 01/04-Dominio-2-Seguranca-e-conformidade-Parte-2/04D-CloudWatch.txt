@@ -1,0 +1,39 @@
+CloudWatch
+
+Amazon CloudWatch provides you with data and actionable insights to monitor your applications, 
+respond to system-wide performance changes, optimize resource utilization, and get a unified view of operational health. 
+CloudWatch collects monitoring and operational data in the form of logs, metrics, and events, 
+providing you with a unified view of AWS resources, applications, and services that run on AWS and on-premises servers. 
+You can use CloudWatch to detect anomalous, set alarms, visualize logs and metrics side by side, 
+take automated actions and troubleshoot issues.
+
+Amazon CloudWatch fornece dados e percepções acionáveis ​​para monitorar seus aplicativos,
+responda às mudanças de desempenho de todo o sistema, otimize a utilização de recursos e obtenha uma visão unificada da integridade operacional.
+O CloudWatch coleta dados operacionais e de monitoramento na forma de registros, métricas e eventos,
+fornecendo a você uma visão unificada dos recursos, aplicativos e serviços da AWS que são executados na AWS e em servidores locais.
+Você pode usar o CloudWatch para detectar anomalias, definir alarmes, visualizar logs e métricas lado a lado,
+realizar ações automatizadas e solucionar problemas.
+
+-------------------------------------------------------
+
+Through AWS CloudWatch it is possible to:
+
+Data collect
+Set alarms
+Monitor your services
+
+Por meio do AWS CloudWatch, é possível:
+
+Coleta de dados
+O CloudWatch coleta dados de monitoramento e operações na forma de logs, métricas e eventos, 
+oferecendo uma visualização unificada dos recursos, dos aplicativos e dos serviços da AWS.
+
+Definir alarmes
+Você pode usar o CloudWatch para detectar comportamento anômalo em seus ambientes, 
+definir alarmes e executar ações automatizadas.
+
+Monitore seus serviços
+O Amazon CloudWatch é um serviço de monitoramento e observação, criado para engenheiros de DevOps, 
+desenvolvedores, Site Reliability Engineers (SREs – Engenheiros de confiabilidade de sites) e gerentes de TI.
+
+-----------------------------------------------------------

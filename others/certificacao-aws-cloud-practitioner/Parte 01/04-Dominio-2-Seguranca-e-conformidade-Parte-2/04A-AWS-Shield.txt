@@ -1,0 +1,77 @@
+AWS Shield - DDoS Protection
+
+AWS Shield is a managed Distributed Denial of Service (DDoS) protection service 
+that safeguards applications running on AWS. 
+AWS Shield provides always-on detection and automatic inline mitigations that 
+minimize application downtime and latency, so there is no need to engage 
+AWS Support to benefit from DDoS protection. There are two tiers of AWS Shield - Standard and Advanced.
+
+AWS Shield é um serviço gerenciado de proteção de negação de serviço distribuída (DDoS)
+que protege os aplicativos em execução na AWS.
+AWS Shield fornece detecção sempre ativa e mitigações automáticas em linha que
+minimizar o tempo de inatividade e latência do aplicativo, para que não haja necessidade de se envolver
+Suporte da AWS para se beneficiar da proteção DDoS. Existem duas camadas do AWS Shield - padrão e avançado.
+
+--------------------------------------------
+
+AWS Shield Standard
+
+AWS Shield Standard provides always-on network flow monitoring which inspects incoming traffic to AWS 
+and uses a combination of traffic signatures, anomaly algorithms and other analysis techniques 
+to detect malicious traffic in real-time.
+
+AWS Shield Standard fornece monitoramento de fluxo de rede sempre ativo que inspeciona o tráfego de entrada para AWS
+e usa uma combinação de assinaturas de tráfego, algoritmos de anomalia e outras técnicas de análise
+para detectar tráfego malicioso em tempo real.
+
+Não pago
+
+---------------------------------------------
+
+AWS Shield Advanced
+
+You can also mitigate application layer DDoS attacks by writing rules using AWS WAF. 
+With AWS WAF you only pay for what you use.
+
+Você também pode mitigar ataques DDoS na camada de aplicativo escrevendo regras usando AWS WAF.
+Com o AWS WAF, você paga apenas pelo que usar.
+
+AWS Shield Advanced provides enhanced detection, inspecting network flows of traffic to 
+your protected Elastic IP address, Elastic Load Balancing (ELB), Amazon CloudFront, 
+AWS Global Accelerator or Amazon Route 53 resources. 
+Using additional techniques like resource specific monitoring, 
+AWS Shield Advanced uses resource and region specific granular detection of DDoS attacks. 
+AWS Shield Advanced also detects application layer DDoS attacks like 
+HTTP floods or DNS query floods by baselining traffic on your resource and identifying anomalies.
+
+AWS Shield Advanced fornece detecção aprimorada, inspecionando fluxos de rede de tráfego para
+seu endereço Elastic IP protegido, Elastic Load Balancing (ELB), Amazon CloudFront,
+Recursos do AWS Global Accelerator ou Amazon Route 53.
+Usando técnicas adicionais, como monitoramento específico de recursos,
+O AWS Shield Advanced usa detecção granular específica de recursos e regiões de ataques DDoS.
+O AWS Shield Advanced também detecta ataques DDoS na camada de aplicativos, como
+Inundações de HTTP ou inundações de consulta de DNS, definindo a linha de base do tráfego em seu recurso e identificando anomalias.
+
+----------------------------------------------
+
+AWS Shield -  Standard vs. Advanced
+
+Standard						Advanced
+- Automatically available on all AWS services.		- Amazon Route 53
+							- Amazon CloudFront
+							- Elastic Load Balancing
+							- AWS Global Accelerator
+							- Elastic IP (Amazon Elastic Compute Cloud and Network Load Balancer)
+							
+https://aws.amazon.com/shield/pricing/
+
+--------------------------------------------------
+
+What service does AWS provide to protect against DDoS attacks?
+
+AWS Shield
+
+O AWS Shield é um serviço gerenciado de proteção contra DDoS (negação de serviço distribuída) 
+que protege os aplicativos executados na AWS.
+
+---------------------------------------------------

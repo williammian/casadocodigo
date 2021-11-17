@@ -1,0 +1,46 @@
+Amazon RDS
+
+Amazon Relational Database Service (Amazon RDS) provides cost-efficient and resizable capacity 
+while automating time-consuming administration tasks such as hardware provisioning, database setup, 
+patching and backups. 
+
+Amazon RDS is available on several database instance types - optimized for memory, 
+performance or I/O - and provides you with six familiar database engines to choose from, 
+including Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle Database, and SQL Server.
+
+Amazon Relational Database Service (Amazon RDS) oferece capacidade econômica e redimensionável
+enquanto automatiza tarefas de administração demoradas, como provisionamento de hardware, configuração de banco de dados,
+patching e backups.
+
+Amazon RDS está disponível em vários tipos de instância de banco de dados - otimizado para memória,
+desempenho ou I / O - e fornece seis mecanismos de banco de dados familiares para escolher,
+incluindo Amazon Aurora, PostgreSQL, MySQL, MariaDB, banco de dados Oracle e SQL Server.
+
+-------------------------------------------------
+
+DynamoDB
+
+Amazon DynamoDB is a key-value and document database that delivers single-digit millisecond 
+performance at any scale. It's a fully managed, multiregion, multimaster database with built-in security, 
+backup and restore, and in-memory caching for internet-scale applications. 
+DynamoDB can handle more than 10 trillion requests per day and support peaks of 
+more than 20 million requests per second.
+
+DynamoDB is a NoSQL database
+
+Amazon DynamoDB é um valor-chave e banco de dados de documentos que oferece um milissegundo de dígito
+desempenho em qualquer escala. É um banco de dados totalmente gerenciado, multirregional e multimaster com segurança integrada,
+backup e restauração e armazenamento em cache na memória para aplicativos em escala de Internet.
+O DynamoDB pode lidar com mais de 10 trilhões de solicitações por dia e oferecer suporte a picos de
+mais de 20 milhões de solicitações por segundo.
+
+DynamoDB é um banco de dados NoSQL
+
+--------------------------------------------------
+
+ O Amazon Aurora é até cinco vezes mais rápido que bancos de dados MySQL padrão, 
+ e três vezes mais rápido que bancos de dados PostgreSQL padrão.
+ 
+ --------------------------------------------------
+ 
+ 

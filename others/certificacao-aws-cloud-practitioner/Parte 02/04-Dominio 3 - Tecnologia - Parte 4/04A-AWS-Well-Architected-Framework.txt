@@ -1,0 +1,29 @@
+Well-Architected Framework
+
+The Well-Architected Framework has been developed to help cloud architects build secure, 
+high-performing, resilient, and efficient infrastructure for their applications. 
+Based on five pillars — operational excellence, security, reliability, performance efficiency, 
+and cost optimization — the Framework provides a consistent approach for customers 
+and partners to evaluate architectures, and implement designs that will scale over time.
+
+O Well-Architected Framework foi desenvolvido para ajudar os arquitetos de nuvem a construir de forma segura,
+infraestrutura de alto desempenho, resiliente e eficiente para seus aplicativos.
+Com base em cinco pilares - excelência operacional, segurança, confiabilidade, eficiência de desempenho,
+e otimização de custos - o Framework fornece uma abordagem consistente para os clientes
+e parceiros para avaliar arquiteturas e implementar projetos que serão escalonados com o tempo.
+
+https://d1.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
+
+-----------------------------------------------------
+
+Which of the options is not one of the four areas of performance efficiency?
+
+Traceability - Rastreabilidade não se aplica à área de eficiência de desempenho.
+
+Monitoring
+
+Exchanges
+
+Selection
+
+-----------------------------------------------------

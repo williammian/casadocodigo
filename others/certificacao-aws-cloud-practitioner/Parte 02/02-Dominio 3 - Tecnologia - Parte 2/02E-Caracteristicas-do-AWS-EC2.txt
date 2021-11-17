@@ -1,0 +1,102 @@
+EC2 - Elastic Compute Cloud
+
+Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, 
+resizable compute capacity in the cloud. 
+It is designed to make web-scale computing easier for developers.
+
+Amazon EC2 reduces the time required to obtain and boot new server instances 
+(called Amazon EC2 instances) to minutes, allowing you to quickly scale capacity, 
+both up and down, as your computing requirements change.
+
+Amazon EC2 changes the economics of computing by allowing 
+you to pay only for capacity that you actually use.
+
+Amazon Elastic Compute Cloud (Amazon EC2) é um serviço da web que fornece segurança,
+capacidade de computação redimensionável na nuvem.
+Ele foi projetado para tornar a computação em escala da web mais fácil para os desenvolvedores.
+
+Amazon EC2 reduz o tempo necessário para obter e inicializar novas instâncias de servidor
+(chamadas de instâncias do Amazon EC2) para minutos, permitindo que você dimensione rapidamente a capacidade,
+tanto para cima quanto para baixo, conforme seus requisitos de computação mudam.
+
+Amazon EC2 muda a economia da computação ao permitir
+você deve pagar apenas pela capacidade que você realmente usa.
+
+--------------------------------------------------------------
+
+EC2 Instance Types: On Demand
+
+On-Demand Instances—With On-Demand instances, you pay for compute capacity by the 
+hour with no long-term commitments. You can increase or decrease your compute capacity 
+depending on the demands of your application and only pay the specified hourly rate for the instances you use.
+
+The use of On-Demand instances frees you from the costs and complexities of planning, 
+purchasing, and maintaining hardware and transforms what are commonly large fixed costs into much 
+smaller variable costs. On-Demand instances also remove the need to buy "safety net" capacity 
+to handle periodic traffic spikes.
+
+Instâncias On-Demand - Com as instâncias On-Demand, você paga pela capacidade de computação pelo
+hora sem compromissos de longo prazo. Você pode aumentar ou diminuir sua capacidade de computação
+dependendo das demandas de seu aplicativo e pague apenas a taxa por hora especificada para as instâncias que você usar.
+
+O uso de instâncias On-Demand libera você dos custos e complexidades do planejamento,
+compra e manutenção de hardware e transforma o que normalmente são grandes custos fixos em muito
+custos variáveis ​​menores. Instâncias sob demanda também eliminam a necessidade de comprar capacidade de "rede de segurança"
+para lidar com picos de tráfego periódicos.
+
+---------------------------------------------------------------
+
+EC2 Instance Types: Reserved Instances
+
+Reserved Instances provide you with a significant discount (up to 75%) compared to On-Demand instance pricing.
+You have the flexibility to change families, operating system types, and tenancies 
+while benefitting from Reserved Instance pricing when you use Convertible Reserved Instances.
+
+As instâncias reservadas fornecem um desconto significativo (até 75%) em comparação com o preço da instância On-Demand.
+Você tem flexibilidade para mudar famílias, tipos de sistema operacional e locações
+enquanto se beneficia dos preços de instâncias reservadas ao usar instâncias reservadas conversíveis.
+
+---------------------------------------------------------------
+
+EC2 Instance Types: Spot Instances
+
+Spot Instances are available at up to a 90% discount compared to On-Demand prices 
+and let you take advantage of unused EC2 capacity in the AWS Cloud. 
+You can significantly reduce the cost of running your applications, 
+grow your application’s compute capacity and throughput for the same budget, 
+and enable new types of cloud computing applications. 
+
+Instâncias Spot estão disponíveis com até 90% de desconto em comparação com os preços On-Demand
+e permitem que você aproveite a capacidade EC2 não utilizada na nuvem AWS.
+Você pode reduzir significativamente o custo de execução de seus aplicativos,
+aumente a capacidade de computação e a taxa de transferência de seu aplicativo com o mesmo orçamento,
+e habilitar novos tipos de aplicativos de computação em nuvem.
+
+---------------------------------------------------------------
+
+EC2 Instance Types: Dedicated Hosts
+
+An Amazon EC2 Dedicated Host is a physical server with EC2 instance capacity fully dedicated to your use. 
+Dedicated Hosts can help you address compliance requirements and reduce costs by allowing you to use 
+your existing server-bound software licenses.
+
+Um Host Dedicado Amazon EC2 é um servidor físico com capacidade de instância EC2 totalmente dedicado ao seu uso.
+Hosts dedicados podem ajudá-lo a atender aos requisitos de conformidade e reduzir custos, permitindo que você use
+suas licenças de software vinculadas ao servidor existentes.
+
+--------------------------------------------------------------
+
+If your project requires you to generate monthly reports through a large amount of data, 
+what type of instance should be used?
+
+Scheduled Reserved Instances
+
+Se o seu projeto requer que você gere relatórios mensais por meio de uma grande quantidade de dados,
+que tipo de instância deve ser usada?
+
+Instâncias reservadas programadas
+
+As instâncias reservadas programadas (instâncias programadas) permitem adquirir reservas de 
+capacidade que se repetem diariamente, semanalmente ou mensalmente.
+
+----------------------------------------------------------------

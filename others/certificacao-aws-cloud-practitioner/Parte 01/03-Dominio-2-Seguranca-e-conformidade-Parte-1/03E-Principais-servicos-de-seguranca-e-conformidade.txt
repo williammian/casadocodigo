@@ -1,0 +1,8 @@
+Principais serviços de seguranca e conformidade
+
+Services - Security, Identity, & Compliance
+
+- WAF , Shield 
+- Inspector, Trusted Advisor, CloudTrail
+- Cloudwatch, AWS Config
+- Athena, Macie

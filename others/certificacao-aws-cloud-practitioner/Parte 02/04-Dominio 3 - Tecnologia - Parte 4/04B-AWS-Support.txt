@@ -1,0 +1,34 @@
+AWS Support
+
+AWS Support offers a range of plans that provide access to tools and expertise 
+that support the success and operational health of your AWS solutions. 
+All support plans provide 24x7 access to customer service, AWS documentation, 
+whitepapers, and support forums. For technical support and more resources to plan, deploy, 
+and improve your AWS environment, you can select a support plan that best aligns with your AWS use case.
+
+O AWS Support oferece uma variedade de planos que fornecem acesso a ferramentas e experiência
+que oferecem suporte ao sucesso e à integridade operacional de suas soluções AWS.
+Todos os planos de suporte fornecem acesso 24 horas por dia, 7 dias por semana ao atendimento ao cliente, documentação da AWS, 
+white papers, e fóruns de suporte. Para suporte técnico e mais recursos para planejar, implantar,
+e melhorar seu ambiente AWS, você pode selecionar um plano de suporte que melhor se alinhe com seu caso de uso AWS.
+
+----------------------------------------------------
+
+Support Plans
+
+Basic - FREE
+Developer - If you are experimenting or testing in AWS.
+Business -  If you have production workloads in AWS.
+Enterprise - If you have business and/or mission critical workloads in AWS.
+
+https://aws.amazon.com/premiumsupport/plans/
+
+------------------------------------------------------
+
+Which of the AWS support levels offers assistance from a technical account manager?
+
+Enterprise
+
+Somente no plano Enterprise está disponível um TAC (technical account manager).
+
+------------------------------------------------------

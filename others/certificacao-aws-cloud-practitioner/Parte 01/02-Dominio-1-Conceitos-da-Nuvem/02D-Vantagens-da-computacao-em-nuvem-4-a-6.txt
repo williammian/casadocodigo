@@ -1,0 +1,65 @@
+4-Increase speed and agility 
+
+In a cloud computing environment, new IT resources are only a click 
+away, which means that you reduce the time to make those 
+resources available to your developers from weeks to just minutes. 
+This results in a dramatic increase in agility for the organization, 
+since the cost and time it takes to experiment and develop is 
+significantly lower
+
+4-Aumente a velocidade e agilidade
+
+Em um ambiente de computação em nuvem, novos recursos de TI estão a apenas um clique
+de distância, o que significa que você reduz o tempo de deploy desses
+recursos para seus desenvolvedores de semanas a apenas alguns minutos.
+Isso resulta em um aumento dramático na agilidade da organização,
+uma vez que o custo e o tempo que leva para experimentar e desenvolver é
+significativamente menor
+
+----------------------------------------------------------------------
+
+5-Stop spending money running and 
+maintaining data centers 
+
+Focus on projects that differentiate your business, not the 
+infrastructure. Cloud computing lets you focus on your own 
+customers, rather than on the heavy lifting of racking, stacking, and 
+powering servers.
+
+5-Pare de gastar dinheiro com operação e
+manutenção de data centers
+
+Concentre-se em projetos que diferenciam seu negócio, não no
+a infraestrutura. A computação em nuvem permite que você se concentre em si mesmo
+clientes, em vez de no trabalho pesado de estantes, empilhamento e
+alimentação de servidores.
+
+-------------------------------------------------------------------------
+
+6-Go global in minutes
+
+Easily deploy your application in multiple regions around the world 
+with just a few clicks. This means you can provide lower latency and 
+a better experience for your customers at minimal cost.
+
+6-Seja global em minutos
+
+Implante facilmente seu aplicativo em várias regiões do mundo
+com apenas alguns cliques. Isso significa que você pode fornecer menor latência e
+uma experiência melhor para seus clientes a um custo mínimo.
+
+--------------------------------------------------------------------------
+
+What are the advantages of cloud computing?
+
+Benefit from massive economies of scale
+Increase speed and agility
+Stop guessing capacity
+
+Quais são as vantagens da computação em nuvem?
+
+Beneficie-se de enormes economias de escala
+Aumente a velocidade e agilidade
+Pare de adivinhar a capacidade
+
+-------------------------------------------------------------------------

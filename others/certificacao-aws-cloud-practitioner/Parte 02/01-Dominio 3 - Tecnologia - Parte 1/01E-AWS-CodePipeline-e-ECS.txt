@@ -1,0 +1,27 @@
+CodePipeline
+
+AWS CodePipeline is a fully managed continuous delivery service that helps you automate your release pipelines for fast
+and reliable application and infrastructure updates. 
+CodePipeline automates the build, test, and deploy phases of your release process every time there is a code change, 
+based on the release model you define. AWS CodePipeline, you only pay for what you use. 
+There are no upfront fees or long-term commitments.
+
+AWS CodePipeline é um serviço de entrega contínua totalmente gerenciado que ajuda a automatizar seus canais de lançamento para
+e atualizações confiáveis ​​de aplicativos e infraestrutura.
+CodePipeline automatiza as fases de construção, teste e implantação do seu processo de lançamento sempre que houver uma alteração no código,
+com base no modelo de liberação que você definir. AWS CodePipeline, você só paga pelo que usar.
+Não há taxas iniciais ou compromissos de longo prazo.
+
+-----------------------------------------------------
+
+EC2 Container Services
+
+Amazon Elastic Container Service (Amazon ECS) allows you to easily run, scale, and secure Docker container applications on AWS. 
+Amazon ECS eliminates the need to install, operate, and scale your own container orchestration and cluster management infrastructure, 
+and allows you to focus on the resource needs and availability requirements of your containerized application.
+
+O Amazon Elastic Container Service (Amazon ECS) permite que você execute, dimensione e proteja aplicativos de contêiner Docker na AWS com facilidade.
+O Amazon ECS elimina a necessidade de instalar, operar e dimensionar sua própria orquestração de contêineres e infraestrutura de gerenciamento de cluster,
+e permite que você se concentre nas necessidades de recursos e requisitos de disponibilidade de seu aplicativo em contêiner.
+
+------------------------------------------------------

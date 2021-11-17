@@ -1,0 +1,57 @@
+Elastic Load Balance (ELB) e Auto Scaling
+
+Elastic Load Balancing (ELB) automatically distributes incoming application traffic across multiple targets, 
+such as Amazon EC2 instances, containers, and IP addresses. It can handle the varying 
+load of your application traffic in a single Availability Zone or across multiple Availability Zones. 
+Elastic Load Balancing offers three types of load balancers that all feature the high availability, 
+automatic scaling, and robust security necessary to make your applications fault tolerant.
+
+Elastic Load Balancing (ELB) distribui automaticamente o tráfego de entrada do aplicativo em vários destinos,
+como instâncias, contêineres e endereços IP do Amazon EC2. Ele pode lidar com os variados
+carga do tráfego de seu aplicativo em uma única zona de disponibilidade ou em várias zonas de disponibilidade.
+Elastic Load Balancing oferece três tipos de balanceadores de carga, todos com alta disponibilidade,
+dimensionamento automático e segurança robusta necessária para tornar seus aplicativos tolerantes a falhas.
+
+--------------------------------------------------
+
+ELB Types
+
+Application Load Balancer is best suited for load balancing of HTTP and HTTPS traffic
+
+Network Load Balancer is best suited for load balancing of TCP traffic where extreme performance is required.
+
+Classic Load Balancer operate at both the request level and connection level. 
+Classic Load Balancer is intended for applications that were built within the EC2-Classic network. 
+
+Application Load Balancer é mais adequado para balanceamento de carga de tráfego HTTP e HTTPS
+
+Network Load Balancer é mais adequado para o balanceamento de carga do tráfego TCP onde é necessário um desempenho extremo.
+
+O Classic Load Balancer opera tanto no nível de solicitação quanto no nível de conexão.
+O Classic Load Balancer se destina a aplicativos desenvolvidos na rede EC2-Classic.
+
+------------------------------------------------------
+
+Auto Scaling
+
+Amazon EC2 Auto Scaling helps you maintain application availability and allows 
+you to automatically add or remove EC2 instances according to conditions you define. 
+You can also use the dynamic and predictive scaling features of Amazon EC2 Auto Scaling 
+to add or remove EC2 instances. Dynamic scaling responds to changing demand and predictive
+scaling automatically schedules the right number of EC2 instances based on predicted demand.
+
+Amazon EC2 Auto Scaling ajuda a manter a disponibilidade do aplicativo e permite
+você adiciona ou remove automaticamente instâncias do EC2 de acordo com as condições que você definir.
+Você também pode usar os recursos de dimensionamento dinâmico e preditivo do Amazon EC2 Auto Scaling
+para adicionar ou remover instâncias EC2. O dimensionamento dinâmico responde à demanda em mudança e preditivo
+O escalonamento programa automaticamente o número certo de instâncias EC2 com base na demanda prevista.
+
+-----------------------------------------------------
+
+Which of the options must be configured on a load balancer to accept incoming traffic?
+
+Listener
+
+Listener é um processo que verifica a solicitações de conexão, usando o protocolo e a porta que você configurar.
+
+------------------------------------------------------

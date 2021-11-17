@@ -1,0 +1,92 @@
+Global Infrastructure
+
+The AWS Cloud infrastructure is built around AWS Regions and Availability Zones. 
+An AWS Region is a physical location in the world where we have multiple Availability Zones. 
+Availability Zones consist of one or more discrete data centers, each with redundant power, 
+networking, and connectivity, housed in separate facilities. 
+These Availability Zones offer you the ability to operate production applications 
+and databases that are more highly available, fault tolerant, 
+and scalable than would be possible from a single data center.
+
+A infraestrutura da nuvem da AWS é construída em torno das regiões e zonas de disponibilidade da AWS.
+Uma região AWS é um local físico no mundo onde temos várias zonas de disponibilidade.
+Zonas de disponibilidade consistem em um ou mais centros de dados discretos, cada um com energia redundante,
+rede e conectividade, alojados em instalações separadas.
+Essas zonas de disponibilidade oferecem a capacidade de operar aplicativos de produção
+e bancos de dados que são mais altamente disponíveis, tolerantes a falhas,
+e escalável do que seria possível a partir de um único data center.
+
+--------------------------------------------------------
+
+The AWS Cloud operates in over 69 Availability Zones within over 22 geographic Regions around the world, 
+with announced plans for more Availability Zones and Regions.
+
+A nuvem AWS opera em mais de 69 zonas de disponibilidade em mais de 22 regiões geográficas em todo o mundo,
+com planos anunciados para mais zonas e regiões de disponibilidade.
+
+---------------------------------------------------------
+
+Regions
+
+Each Amazon Region is designed to be completely isolated from the other Amazon Regions. 
+This achieves the greatest possible fault tolerance and stability.
+
+Cada região da Amazon é projetada para ser completamente isolada das demais regiões da Amazon.
+Isso atinge a maior tolerância a falhas e estabilidade possíveis.
+
+---------------------------------------------------------
+
+Availability Zone
+
+Each Availability Zone is isolated, but the Availability Zones in a Region are connected through low-latency links. 
+AWS provides you with the flexibility to place instances and store data within multiple geographic regions 
+as well as across multiple Availability Zones within each AWS Region. 
+Each Availability Zone is designed as an independent failure zone. 
+Minimum of 2 availability zones per region
+
+Cada zona de disponibilidade é isolada, mas as zonas de disponibilidade em uma região são conectadas por meio de links de baixa latência.
+AWS fornece a você a flexibilidade de colocar instâncias e armazenar dados em várias regiões geográficas
+bem como em várias zonas de disponibilidade dentro de cada região da AWS.
+Cada zona de disponibilidade é projetada como uma zona de falha independente.
+Mínimo de 2 zonas de disponibilidade por região
+
+---------------------------------------------------------
+
+Availability Zones are physically separated within a typical metropolitan region and are located in lower risk flood plains 
+(specific flood zone categorization varies by AWS Region). In addition to discrete uninterruptible power supply 
+(UPS) and onsite backup generation facilities, they are each fed via different grids from independent utilities 
+to further reduce single points of failure. Availability Zones are all redundantly connected to multiple tier-1 transit providers.
+
+Zonas de disponibilidade são fisicamente separadas dentro de uma região metropolitana típica e estão localizadas em planícies de inundação de baixo risco
+(a categorização específica da zona de inundação varia de acordo com a região da AWS). Além de fonte de alimentação ininterrupta discreta
+(UPS) e instalações de geração de backup no local, cada uma é alimentada por redes diferentes de utilitários independentes
+para reduzir ainda mais os pontos únicos de falha. Zonas de disponibilidade são todas redundantemente conectadas a vários provedores de trânsito de nível 1.
+
+----------------------------------------------------------
+
+Edge Locations
+
+Edge Locations are endpoints for AWS which are used for caching content. 
+Typically this consists os CloudFront, Amazon´s Content Delivery Network (CDN)
+
+Os locais de extremidade são pontos finais para AWS que são usados ​​para armazenar conteúdo em cache.
+Normalmente, isso consiste em CloudFront, Amazon's Content Delivery Network (CDN)
+
+----------------------------------------------------------
+
+Edge Locations > Availability Zones > Regions
+
+-----------------------------------------------------------
+
+What is the best description for an Availability Zones?
+
+Distinct locations from within an AWS region that are engineered to be isolated from failures
+
+Qual é a melhor descrição para zonas de disponibilidade?
+
+Locais distintos de dentro de uma região AWS que são projetados para serem isolados de falhas
+
+-----------------------------------------------------------
+
+
+

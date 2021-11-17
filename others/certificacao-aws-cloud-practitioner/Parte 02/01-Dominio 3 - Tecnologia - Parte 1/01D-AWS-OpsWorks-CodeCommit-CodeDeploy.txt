@@ -1,0 +1,37 @@
+OpsWorks
+
+AWS OpsWorks is a configuration management service that provides managed instances of Chef and Puppet. 
+Chef and Puppet are automation platforms that allow you to use code to automate the configurations of your servers. 
+OpsWorks lets you use Chef and Puppet to automate how servers are configured, deployed, 
+and managed across your Amazon EC2 instances or on-premises compute environments. 
+
+O AWS OpsWorks é um serviço de gerenciamento de configuração que fornece instâncias gerenciadas de Chef e Puppet.
+Chef e Puppet são plataformas de automação que permitem usar código para automatizar as configurações de seus servidores.
+OpsWorks permite que você use Chef e Puppet para automatizar como os servidores são configurados, implantados,
+e gerenciado em suas instâncias do Amazon EC2 ou ambientes de computação no local.
+
+----------------------------------------------
+
+CodeCommit
+
+AWS CodeCommit is a fully-managed source control service that hosts secure Git-based repositories. 
+It makes it easy for teams to collaborate on code in a secure and highly scalable ecosystem. 
+CodeCommit eliminates the need to operate your own source control system or worry about scaling its infrastructure. 
+You can use CodeCommit to securely store anything from source code to binaries, and it works seamlessly with your existing Git tools.
+
+AWS CodeCommit é um serviço de controle de origem totalmente gerenciado que hospeda repositórios baseados em Git seguros.
+Isso torna mais fácil para as equipes colaborarem no código em um ecossistema seguro e altamente escalonável.
+CodeCommit elimina a necessidade de operar seu próprio sistema de controle de origem ou se preocupar com o dimensionamento de sua infraestrutura.
+Você pode usar CodeCommit para armazenar com segurança qualquer coisa, desde código-fonte a binários, e funciona perfeitamente com suas ferramentas Git existentes.
+
+----------------------------------------------
+
+Code Deploy
+
+AWS CodeDeploy is a fully managed deployment service that automates software deployments to a variety of compute services such as 
+Amazon EC2, AWS Fargate, AWS Lambda, and your on-premises servers. 
+
+AWS CodeDeploy é um serviço de implantação totalmente gerenciado que automatiza implantações de software para uma variedade de serviços de computação, como
+Amazon EC2, AWS Fargate, AWS Lambda e seus servidores locais.
+
+-----------------------------------------------

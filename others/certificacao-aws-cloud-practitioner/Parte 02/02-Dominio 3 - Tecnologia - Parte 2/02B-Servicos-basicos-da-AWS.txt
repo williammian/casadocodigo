@@ -1,0 +1,7 @@
+Basic Services
+
+IAM - Identity and Access Management
+S3 - Amazon Simple Storage Service
+EC2 - Amazon Elastic Compute Cloud
+IAM Roles - Permissions
+Databases - RDS, DynamoDB

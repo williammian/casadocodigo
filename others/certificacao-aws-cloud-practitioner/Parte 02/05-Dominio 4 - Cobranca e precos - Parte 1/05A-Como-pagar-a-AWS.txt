@@ -1,0 +1,71 @@
+How do you pay for AWS?
+
+Pay-as-you-go
+Save when you reserve
+Pay less by using more
+
+Como você paga pela AWS?
+
+Pague conforme o uso
+Economize ao reservar
+Pague menos usando mais
+
+-----------------------------------------
+
+Pay-as-you-go
+
+Pay-as-you-go pricing allows you to easily adapt to changing business needs 
+without overcommitting budgets and improving your responsiveness to changes. 
+With a pay as you go model, you can adapt your business depending on need and not on forecasts, 
+reducing the risk or over provisioning or missing capacity.
+
+Os preços pré-pagos permitem que você se adapte facilmente às necessidades de negócios em constante mudança
+sem comprometer orçamentos excessivos e melhorar sua capacidade de resposta às mudanças.
+Com um modelo pré-pago, você pode adaptar seu negócio de acordo com a necessidade e não com as previsões,
+reduzindo o risco ou superprovisionamento ou capacidade perdida.
+
+------------------------------------------
+
+Save when you reserve
+
+For certain services like Amazon EC2 and Amazon RDS, you can invest in reserved capacity. 
+With Reserved Instances, you can save up to 75% over equivalent on-demand capacity.
+
+Reserved Instances are available in 3 options:
+All up-front (AURI)
+Partial up-front (PURI)
+No upfront payments (NURI)
+
+Para determinados serviços como Amazon EC2 e Amazon RDS, você pode investir na capacidade reservada.
+Com as instâncias reservadas, você pode economizar até 75% sobre a capacidade sob demanda equivalente.
+
+As instâncias reservadas estão disponíveis em 3 opções:
+Tudo adiantado (AURI)
+Inicial parcial (PURI)
+Sem pagamentos adiantados (NURI)
+
+---------------------------------------------
+
+Pay less by using more
+
+With AWS, you can get volume based discounts and realize important savings as your usage increases. 
+For services such as S3 and data transfer OUT from EC2, pricing is tiered, meaning the more you use,
+the less you pay per GB. In addition, data transfer IN is always free of charge. 
+As a result, as your AWS usage needs increase, you benefit from the economies of scale 
+that allow you to increase adoption and keep costs under control.
+
+Com a AWS, você pode obter descontos baseados em volume e realizar economias importantes à medida que seu uso aumenta.
+Para serviços como S3 e transferência de dados OUT do EC2, os preços são diferenciados, o que significa que quanto mais você usa,
+menos você paga por GB. Além disso, a transferência de dados IN é sempre gratuita.
+Como resultado, conforme suas necessidades de uso da AWS aumentam, você se beneficia das economias de escala
+que permitem aumentar a adoção e manter os custos sob controle.
+
+----------------------------------------------
+
+In the on demand model, how often do you pay for computing resources?
+
+Per second and hour
+
+O custo é calculado por horas e segundos de utilização.
+
+----------------------------------------------

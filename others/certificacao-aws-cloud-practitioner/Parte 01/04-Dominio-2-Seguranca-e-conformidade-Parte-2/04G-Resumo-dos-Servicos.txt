@@ -1,0 +1,12 @@
+Resumo dos serviços
+
+AWS WAF (Web Application Firewall) → Stop hackers (layer 7)
+AWS Shield → Stop DDOS attacks (standard / advanced)
+AWS Inspector → EC2 vulnerabilities
+AWS Trusted Advisor → Inspect Account (Cost, Performance, Fault Tolerance)
+
+CloudWatch →  Monitoring
+AWS CloudTrail → "Logs"
+AWs Config → Gerenciamento das configs
+Athena → Interactive query service (data stored in S3)
+Macie → AI to analyze data in S3 (PII)

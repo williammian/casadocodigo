@@ -1,0 +1,88 @@
+Cloud Computing Models
+
+- Public
+- Hybrid
+- Private (On-premises)
+
+Modelos de computação em nuvem
+
+- Público
+- Híbrido
+- Privado (no local)
+
+-------------------------------------------------
+
+https://aws.amazon.com/pt/what-is-cloud-computing/
+
+Public
+
+A cloud-based application is fully deployed in the cloud and all parts 
+of the application run in the cloud. Applications in the cloud have 
+either been created in the cloud or have been migrated from an 
+existing infrastructure to take advantage of the benefits of cloud 
+computing. Cloud-based applications can be built on low-level 
+infrastructure pieces or can use higher level services that provide 
+abstraction from the management, architecting, and scaling 
+requirements of core infrastructure.
+
+Público
+
+Um aplicativo baseado em nuvem é totalmente implantado na nuvem e todas as partes
+do aplicativo executado na nuvem. Os aplicativos na nuvem têm
+foram criados na nuvem ou migrados de um
+infraestrutura existente para aproveitar os benefícios da nuvem
+Informática. Aplicativos baseados em nuvem podem ser construídos em baixo nível
+peças de infraestrutura ou podem usar serviços de nível superior que fornecem
+abstração do gerenciamento, arquitetura e escalonamento
+requisitos da infraestrutura central.
+
+--------------------------------------------------
+
+Hybrid
+
+A hybrid deployment is a way to connect infrastructure and 
+applications between cloud-based resources and existing resources 
+that are not located in the cloud. The most common method of hybrid 
+deployment is between the cloud and existing on-premises 
+infrastructure to extend, and grow, an organization's infrastructure 
+into the cloud while connecting cloud resources to the internal 
+system.
+
+Híbrido
+
+Uma implantação híbrida é uma maneira de conectar a infraestrutura e
+aplicativos entre recursos baseados em nuvem e recursos existentes
+que não estão localizados na nuvem. O método mais comum de híbrido
+a implantação é entre a nuvem e o local existente
+infraestrutura para estender e aumentar a infraestrutura de uma organização
+na nuvem enquanto conecta os recursos da nuvem ao interno
+sistema.
+
+https://aws.amazon.com/pt/hybrid/
+
+----------------------------------------------------
+
+Private (On-premises)
+
+The deployment of resources on-premises, using virtualization and 
+resource management tools, is sometimes called the “private cloud.” 
+On-premises deployment doesn’t provide many of the benefits of 
+cloud computing but is sometimes sought for its ability to provide 
+dedicated resources. In most cases this deployment model is the 
+same as legacy IT infrastructure while using application management 
+and virtualization technologies to try and increase resource 
+utilization.
+
+Privado (no local)
+
+A implantação de recursos no local, usando virtualização e
+ferramentas de gerenciamento de recursos, às vezes é chamado de "nuvem privada".
+A implantação local não fornece muitos dos benefícios de
+computação em nuvem, mas às vezes é procurada por sua capacidade de fornecer
+recursos dedicados. Na maioria dos casos, este modelo de implantação é o
+mesmo que a infraestrutura de TI legada ao usar o gerenciamento de aplicativos
+e tecnologias de virtualização para tentar aumentar os recursos
+utilização.
+
+-------------------------------------------------------
+

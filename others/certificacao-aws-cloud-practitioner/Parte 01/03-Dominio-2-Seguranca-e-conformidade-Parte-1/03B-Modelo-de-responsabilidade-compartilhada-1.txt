@@ -1,0 +1,48 @@
+https://aws.amazon.com/pt/compliance/shared-responsibility-model/
+
+Shared Responsibility Model
+
+Security and Compliance is a shared responsibility between AWS and the customer. 
+This shared model can help relieve the customer’s operational burden as AWS operates, 
+manages and controls the components from the host operating system and virtualization 
+layer down to the physical security of the facilities in which the service operates. 
+The customer assumes responsibility and management of the guest operating system 
+(including updates and security patches), other associated application software as well 
+as the configuration of the AWS provided security group firewall.
+
+Modelo de Responsabilidade Compartilhada
+
+Segurança e conformidade é uma responsabilidade compartilhada entre a AWS e o cliente.
+Este modelo compartilhado pode ajudar a aliviar a carga operacional do cliente enquanto a AWS opera,
+gerencia e controla os componentes do sistema operacional host e virtualização
+camada inferior à segurança física das instalações em que o serviço opera.
+O cliente assume a responsabilidade e gestão do sistema operacional convidado
+(incluindo atualizações e patches de segurança), outros softwares de aplicativos associados também
+como a configuração do firewall de grupo de segurança fornecido pela AWS.
+
+--------------------------------------------------------------------------
+
+Customers should carefully consider the services they choose as their responsibilities 
+vary depending on the services used, the integration of those services into their IT environment, 
+and applicable laws and regulations. The nature of this shared responsibility also
+provides the flexibility and customer control that permits the deployment. 
+The differentiation of responsibility is commonly referred to as Security “of” 
+the Cloud versus Security “in” the Cloud.
+
+Os clientes devem considerar cuidadosamente os serviços que escolhem como suas responsabilidades
+variam dependendo dos serviços usados, a integração desses serviços em seu ambiente de TI,
+e leis e regulamentos aplicáveis. A natureza desta responsabilidade compartilhada também
+fornece a flexibilidade e o controle do cliente que permite a implantação.
+A diferenciação de responsabilidade é comumente referida como Segurança "de"
+a nuvem versus segurança “na” nuvem.
+
+----------------------------------------------------------------------------
+
+Security in the cloud
+Segurança na nuvem é de responsabilidade do cliente, como por exemplo a configuração 
+de regras de firewall (security groups).
+
+Security of the cloud
+Segurança da nuvem é de responsabilidade da AWS, ou seja, segurança dos serviços providos pela AWS.
+
+----------------------------------------------------------------------------

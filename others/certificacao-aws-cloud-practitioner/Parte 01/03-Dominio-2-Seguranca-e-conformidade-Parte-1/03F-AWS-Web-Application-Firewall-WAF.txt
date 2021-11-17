@@ -1,0 +1,43 @@
+AWS WAF
+
+AWS WAF is a web application firewall that helps protect your web applications or 
+APIs against common web exploits that may affect availability, compromise security, 
+or consume excessive resources. AWS WAF gives you control over how traffic reaches 
+your applications by enabling you to create security rules that block common attack patterns, 
+such as SQL injection or cross-site scripting, and rules that filter out specific traffic patterns you define. 
+
+AWS WAF é um firewall de aplicativo da web que ajuda a proteger seus aplicativos da web ou
+APIs contra exploits comuns da web que podem afetar a disponibilidade, comprometer a segurança,
+ou consumir recursos excessivos. AWS WAF oferece controle sobre como o tráfego chega
+seus aplicativos, permitindo que você crie regras de segurança que bloqueiam padrões de ataque comuns,
+como injeção de SQL ou script entre sites e regras que filtram padrões de tráfego específicos que você define.
+
+------------------------------------------------
+
+AWS WAF, you pay only for what you use. The pricing is based on how many rules you deploy 
+and how many web requests your application receives. There are no upfront commitments.
+You can deploy AWS WAF on Amazon CloudFront as part of your CDN solution, 
+the Application Load Balancer that fronts your web servers or origin servers running on EC2, 
+or Amazon API Gateway for your APIs.
+
+AWS WAF, você paga apenas pelo que usar. O preço é baseado em quantas regras você implanta
+e quantas solicitações da web seu aplicativo recebe. Não há compromissos iniciais.
+Você pode implantar AWS WAF no Amazon CloudFront como parte de sua solução CDN,
+o balanceador de carga de aplicativo que faz frente aos seus servidores web ou servidores de origem em execução no EC2,
+ou Amazon API Gateway para suas APIs.
+
+https://aws.amazon.com/waf/pricing/
+
+-------------------------------------------------
+
+The WAF firewall acts on which OSI layer?
+
+7th layer
+
+O firewall WAF atua em qual camada OSI?
+
+7ª camada
+
+O WAF atua na camada de aplicação (7).
+
+-------------------------------------------------

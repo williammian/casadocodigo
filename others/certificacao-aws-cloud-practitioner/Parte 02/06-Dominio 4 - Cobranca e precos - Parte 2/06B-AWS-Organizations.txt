@@ -1,0 +1,48 @@
+AWS Organizations
+
+AWS Organizations is an account management service that enables you to consolidate multiple 
+AWS accounts into an organization that you create and centrally manage. 
+AWS Organizations includes account management and consolidated billing capabilities 
+that enable you to better meet the budgetary, security, and compliance needs of your business. 
+As an administrator of an organization, you can create accounts in your organization and 
+invite existing accounts to join the organization.
+
+AWS Organizations é um serviço de gerenciamento de contas que permite consolidar vários
+As contas da AWS em uma organização que você cria e gerencia centralmente.
+AWS Organizations inclui gerenciamento de contas e recursos de faturamento consolidado
+que permitem que você atenda melhor às necessidades orçamentárias, de segurança e de conformidade de seus negócios.
+Como administrador de uma organização, você pode criar contas em sua organização e
+convidar contas existentes para ingressar na organização.
+
+----------------------------------------------------------
+
+Features
+
+Manage and define your organization and accounts
+Control access and permissions
+Audit, monitor, and secure your environment for compliance
+Share resources across accounts
+Centrally manage costs and billing
+
+Gerenciar e definir sua organização e contas
+Controle de acesso e permissões
+Audite, monitore e proteja seu ambiente para conformidade
+Compartilhe recursos entre contas
+Gerenciar custos e faturamento de maneira centralizada
+
+----------------------------------------------------------
+
+AWS Account Structures
+
+AWS Organizations to create hierarchical and logical groupings to better manage accounts. 
+Note that there is a soft limit of 20 accounts per organization, and a hard limit of one level of billing hierarchy; 
+for example, a master (paying) account cannot be in the same organization as another master (paying) account.
+
+Organizações AWS para criar agrupamentos hierárquicos e lógicos para gerenciar melhor as contas.
+Observe que há um limite flexível de 20 contas por organização e um limite rígido de um nível de hierarquia de faturamento;
+por exemplo, uma conta mestre (paga) não pode estar na mesma organização que outra conta mestre (paga).
+
+https://aws.amazon.com/answers/account-management/aws-multi-account-billing-strategy/
+
+-----------------------------------------------------------
+

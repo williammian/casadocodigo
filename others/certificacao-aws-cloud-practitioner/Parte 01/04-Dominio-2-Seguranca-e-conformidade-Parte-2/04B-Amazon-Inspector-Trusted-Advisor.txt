@@ -1,0 +1,55 @@
+Amazon Inspector
+
+Amazon Inspector is an automated security assessment service that helps improve the security
+and compliance of applications deployed on AWS. Amazon Inspector automatically 
+assesses applications for exposure, vulnerabilities, and deviations from best practices. 
+After performing an assessment, Amazon Inspector produces a detailed list of 
+security findings prioritized by level of severity. 
+These findings can be reviewed directly or as part of detailed assessment reports
+which are available via the Amazon Inspector console or API.
+
+Amazon Inspector é um serviço automatizado de avaliação de segurança que ajuda a melhorar a segurança
+e conformidade de aplicativos implantados na AWS. Amazon Inspector automaticamente
+avalia os aplicativos quanto à exposição, vulnerabilidades e desvios das melhores práticas.
+Depois de realizar uma avaliação, o Amazon Inspector produz uma lista detalhada de
+descobertas de segurança priorizadas por nível de gravidade.
+Essas descobertas podem ser revisadas diretamente ou como parte de relatórios de avaliação detalhados
+que estão disponíveis por meio do console do Amazon Inspector ou API.
+
+-----------------------------------------------
+
+Amazon Inspector security assessments help you check for unintended network accessibility
+of your Amazon EC2 instances and for vulnerabilities on those EC2 instances.
+
+As avaliações de segurança do Amazon Inspector ajudam você a verificar a acessibilidade de rede não intencional
+de suas instâncias do Amazon EC2 e para vulnerabilidades nessas instâncias do EC2.
+
+------------------------------------------------
+
+Trusted Advisor
+
+AWS Trusted Advisor is an online tool that provides you real time guidance to help you
+provision your resources following AWS best practices.
+Whether establishing new workflows, developing applications, or as part of ongoing improvement, 
+take advantage of the recommendations provided by Trusted Advisor on a regular basis to help 
+keep your solutions provisioned optimally.
+
+AWS Trusted Advisor é uma ferramenta online que fornece orientação em tempo real para ajudá-lo
+provisionar seus recursos seguindo as práticas recomendadas da AWS.
+Seja estabelecendo novos fluxos de trabalho, desenvolvendo aplicativos ou como parte da melhoria contínua,
+aproveite as recomendações fornecidas pelo Trusted Advisor regularmente para ajudar
+mantenha suas soluções aprovisionadas de maneira otimizada.
+
+------------------------------------------------
+
+What is Amazon Web Service Trusted Advisor?
+
+Online tool that helps to configure resources according to best practices
+
+O que é Amazon Web Service Trusted Advisor?
+
+Ferramenta online que ajuda a configurar recursos de acordo com as melhores práticas
+
+-------------------------------------------------
+
+
